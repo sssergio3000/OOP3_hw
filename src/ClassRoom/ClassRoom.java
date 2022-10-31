@@ -6,7 +6,7 @@ public class ClassRoom {
 
 public ClassRoom(Pupil parPupil){
 
-    this Pupil = parPupil;
+    this.pupil = parPupil;
 
 
 }
