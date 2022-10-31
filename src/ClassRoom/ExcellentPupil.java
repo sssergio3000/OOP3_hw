@@ -1,6 +1,6 @@
 package ClassRoom;
 
-public class ExcelentPupil extends Pupil{
+public class ExcellentPupil extends Pupil{
     @Override
     void study() {
         System.out.println("I study a lot and with pleasure");
