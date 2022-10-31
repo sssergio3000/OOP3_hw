@@ -15,5 +15,26 @@ public class Vehicle {
         this.price = price;
         this.speed = speed;
         this.year = year;
+    }//constructor
+
+    public int getCoordX() {
+        return coordX;
     }
-}
+
+    public int getCoordY() {
+        return coordY;
+    }
+
+    public int getPrice() {
+        return price;
+    }
+
+    public int getSpeed() {
+        return speed;
+    }
+
+    public int getYear() {
+        return year;
+    }
+public void show(){}
+}//class
